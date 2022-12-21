@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Base64-practice" />
+            <option value="$PROJECT_DIR$/kafka-consumer" />
+            <option value="$PROJECT_DIR$/kafka-consumer-custom" />
+            <option value="$PROJECT_DIR$/kafka-consumer-test" />
+            <option value="$PROJECT_DIR$/kafka-producer" />
+            <option value="$PROJECT_DIR$/kafka-worker" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
